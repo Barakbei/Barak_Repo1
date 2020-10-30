@@ -1,1 +1,6 @@
-Lorem ipsum dolor sit amet,consectetuer adipiscing elit. commodo ligula eget dolor.massa.Cum sociis natoque penatibus et magnis dis parturient montes,nascetur ridiculus mus.Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+<<<<<<< HEAD
+Barak made this change--Lorem ipsum dolor sit amet,consectetuer adipiscing elit.  commodo ligula eget dolor.massa.Cum sociis natoque penatibus et magnis dis parturient montes,nascetur ridiculus mus.Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+=======
+
+Lorem Shalom ipsum dolor sit amet,consectetuer adipiscing elit.Aeeeennnnean commodo ligula eget dolor.Aeeeeennnnean massa.Cum sociis natoque penatibus et magnis dis parturient montes,nascetur ridiculus mus.Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. VIKI IS MY QUEEN:x
+>>>>>>> 1d1e1b4dd7388f872de84ae6a53de67cc42570b5
